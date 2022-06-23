@@ -51,7 +51,6 @@ Initial release
 
 ```yaml
 ---
-### Chip Update ###
 chip_update:
   template:
     - "ulm_language_variables"
@@ -73,7 +72,6 @@ chip_update:
   styles:
     grid:
       - grid-template-areas: "'i l'"
-
 ```
 
 ## Requirements
